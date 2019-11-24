@@ -1,0 +1,4 @@
+[fix]
+client = yes
+accept = 127.0.0.1:444
+connect = gleneagleus.primexm.com:25582
